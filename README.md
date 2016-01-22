@@ -1,7 +1,7 @@
-C-like Language Compiler
+<h1>C-like Language Compiler</h1>
 
-<h2>finished：</h2>
-Lexer & Parser <br />
+<h2>Finished：</h2>
+<b>Lexer</b> & <b>Parser</b> <br />
 
 	a = 1;
 	c = a;
@@ -37,5 +37,5 @@ Lexer & Parser <br />
 	write a*(b + c) -c/d;
 
 
-<h2>todo：</h2>
-convert to assembly language
+<h2>Todo：</h2>
+convert Syntax Tree to assembly language
