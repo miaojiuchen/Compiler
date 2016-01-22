@@ -1,0 +1,12 @@
+F:\MParsers\lex\bin\Debug\lex.exe.config
+F:\MParsers\lex\bin\Debug\lex.exe
+F:\MParsers\lex\bin\Debug\lex.pdb
+F:\MParsers\lex\obj\Debug\lex.exe
+F:\MParsers\lex\obj\Debug\lex.pdb
+F:\MParsers\lex\obj\Debug\lex.csprojResolveAssemblyReference.cache
+H:\GitRepository\Compiler\Lexer\bin\Debug\lex.exe.config
+H:\GitRepository\Compiler\Lexer\obj\Debug\lex.exe
+H:\GitRepository\Compiler\Lexer\obj\Debug\lex.pdb
+H:\GitRepository\Compiler\Lexer\bin\Debug\lex.exe
+H:\GitRepository\Compiler\Lexer\bin\Debug\lex.pdb
+H:\GitRepository\Compiler\Lexer\obj\Debug\lex.csprojResolveAssemblyReference.cache
