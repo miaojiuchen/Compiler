@@ -1,6 +1,7 @@
 C-like Language Compiler
 
-finished：Lexer <br />
+<h2>finished：</h2>
+Lexer & Parser <br />
 
 	a = 1;
 	c = a;
@@ -34,4 +35,7 @@ finished：Lexer <br />
 	}
 
 	write a*(b + c) -c/d;
-todo：convert to assembly language
+
+
+<h2>todo：</h2>
+convert to assembly language
